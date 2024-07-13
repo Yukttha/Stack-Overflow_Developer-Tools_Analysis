@@ -32,8 +32,5 @@ The dataset is stored in a csv file, with three variables, represented as column
   <h3>Social Network Analysis and Visualization</h3>
   <p>The technology tags represent various programming languages, frameworks, and tools. Using GenerativeAI (ChatGPT), we categorized the nodes and edges to identify for any commonalities that we may use the analysis. Some of these tags may overlap with more than one category.
 
-  <h3>Social Network Analysis & Visualization</h3>
- <p>The technology tags represent various programming languages, frameworks, and tools. Using ChatGPT, the nodes and edges were categorized to identify for any commonalities that we may use the analysis. Some of these tags may overlap with more than one category.
-
   </body>
 </html>
